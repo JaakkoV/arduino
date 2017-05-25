@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p05_ServoMoodIndicator", "..\..\..\..\..\Program Files (x86)\Arduino\examples\10.StarterKit_BasicKit\p05_ServoMoodIndicator\p05_ServoMoodIndicator.vcxproj", "{8C19B9F9-1021-456E-B943-93A854FC0FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C19B9F9-1021-456E-B943-93A854FC0FCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C19B9F9-1021-456E-B943-93A854FC0FCE}.Debug|Win32.Build.0 = Debug|Win32
+		{8C19B9F9-1021-456E-B943-93A854FC0FCE}.Release|Win32.ActiveCfg = Release|Win32
+		{8C19B9F9-1021-456E-B943-93A854FC0FCE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
