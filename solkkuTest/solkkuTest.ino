@@ -6,13 +6,12 @@
 
 #define solenoidPin 3
 #define detectorPin 6
-#define buttonPin 11
+#define ledPin 9
 
 void setup(){
   pinMode(solenoidPin, OUTPUT);  
   pinMode(detectorPin, INPUT);
-  pinMode(buttonPin, INPUT);
-}
+  }
 
 void loop(){
   boolean hit = digitalRead(detectorPin);
